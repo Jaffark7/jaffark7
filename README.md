@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hey, I'm Jaffar 👋
 
-<!--
-**Jaffark7/jaffark7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist & ML Engineer focused on building practical machine learning systems.  
+I work with predictive modeling, NLP, and applied AI to solve real-world problems.
 
-Here are some ideas to get you started:
+BSc in Computer Science · MSc in Artificial Intelligence · Halmstad University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Experience
+- Building on-premise AI infrastructure and ML systems ty  
+- Master’s thesis at Volvo Group on simulation-based forecasting and inventory optimization
+
+---
+
+### Focus Areas
+- Predictive modeling, anomaly detection, and forecasting  
+- NLP and LLM applications  
+- End-to-end ML systems (data → model → deployment)  
+
+---
+
+### Tech Stack
+
+**Languages:** Python, SQL  
+**ML & Data:** scikit-learn, XGBoost, PyTorch, TensorFlow, Pandas, NumPy  
+**NLP/LLM:** Hugging Face, LangChain, RAG, Ollama  
+**Tools:** Docker, FastAPI, Streamlit, Git, Linux  
+
+---
+
+### Currently
+- Building ML projects in survival analysis, predictive maintenance, and NLP  
+- Exploring how AI can be applied in automotive and healthcare  
+- ⚽ Playing football  
+
+---
+
+📫 **jaffarkamil@outlook.com** · [LinkedIn](https://linkedin.com/in/jaffarkamil)
