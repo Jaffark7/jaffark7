@@ -23,5 +23,5 @@ I’ve worked on ML systems and AI infrastructure , and did my master’s thesis
 
 - Interested in how AI can be applied in automotive and healthcare  
 - Currently building projects in predictive maintenance, survival analysis, and NLP  
-- ⚽ I play football and spend time on Kaggle  
+- ⚽ I play football  
 - I like building things that are practical, clear, and actually useful  
