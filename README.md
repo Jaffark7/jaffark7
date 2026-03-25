@@ -1,39 +1,27 @@
-## Hey, I'm Jaffar 👋
+## Hey there 👋
 
-Data Scientist & ML Engineer focused on building practical machine learning systems.  
-I work with predictive modeling, NLP, and applied AI to solve real-world problems.
+I’m Jaffar — working with machine learning and applied AI.
 
-BSc in Computer Science · MSc in Artificial Intelligence · Halmstad University
+I mostly use GitHub to share projects when I feel like they’ve taught me something useful — or could be useful for someone else.  
+A lot of what I build is focused on real-world problems rather than just experiments.
 
----
-
-### Experience
-- Building on-premise AI infrastructure and ML systems ty  
-- Master’s thesis at Volvo Group on simulation-based forecasting and inventory optimization
+I’ve worked on ML systems and AI infrastructure , and did my master’s thesis at Volvo Group on forecasting and inventory optimization.
 
 ---
 
-### Focus Areas
-- Predictive modeling, anomaly detection, and forecasting  
-- NLP and LLM applications  
-- End-to-end ML systems (data → model → deployment)  
+### Tools & Tech
+
+- Python, SQL  
+- scikit-learn, XGBoost, PyTorch, TensorFlow  
+- Pandas, NumPy  
+- Hugging Face, LangChain, RAG 
+- Docker, FastAPI, Streamlit, Linux  
 
 ---
 
-### Tech Stack
+### A bit about me
 
-**Languages:** Python, SQL  
-**ML & Data:** scikit-learn, XGBoost, PyTorch, TensorFlow, Pandas, NumPy  
-**NLP/LLM:** Hugging Face, LangChain, RAG, Ollama  
-**Tools:** Docker, FastAPI, Streamlit, Git, Linux  
-
----
-
-### Currently
-- Building ML projects in survival analysis, predictive maintenance, and NLP  
-- Exploring how AI can be applied in automotive and healthcare  
-- ⚽ Playing football  
-
----
-
-📫 **jaffarkamil@outlook.com** · [LinkedIn](https://linkedin.com/in/jaffarkamil)
+- Interested in how AI can be applied in automotive and healthcare  
+- Currently building projects in predictive maintenance, survival analysis, and NLP  
+- ⚽ I play football and spend time on Kaggle  
+- I like building things that are practical, clear, and actually useful  
