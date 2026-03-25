@@ -5,7 +5,7 @@
 I'm Jaffar — working with machine learning and applied AI.
 
 I mostly use GitHub to share projects when I feel like they've taught me something useful — or could be useful for someone else.
-A lot of what I build is focused on real-world problems rather than just experiments.
+
 
 I currently work on ML systems and AI infrastructure in public sector, and previously worked on my MSc thesis at Volvo Group on forecasting and inventory optimization.
 
